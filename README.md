@@ -1,8 +1,6 @@
 # TE_IT_MACHINE_LEARNING
 Machine Learning Code/Model 2019 Pattern
 
-# Data Science Assignments
-
 This repository contains implementations and analyses for various data science assignments. Each assignment focuses on different techniques and algorithms in the field of data science. Below are the details of each assignment:
 
 ## 1. Data Preparation
